@@ -6,5 +6,6 @@ https://github.com/rachana-kankati/walletwise-pay-17.git
 
 
 Live demo:
+https://walletwise-pay-17.lovable.app
 
 
